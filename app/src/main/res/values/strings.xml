@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sync Music</string>
+
+    <string name="Alex">Alex Music</string>
+    <string name="one">0.25</string>
+    <string name="two">-0.25</string>
+</resources>
